@@ -6,6 +6,8 @@
 
 > If you're looking for proxy for helm, maybe you can try [cloudflare-helm-proxy](https://github.com/ciiiii/cloudflare-helm-proxy).
 
+
+[![Deploy to Cloudflare Workers(NewStaging)](https://github.com/jaweyhuang/cloudflare-docker-proxy/actions/workflows/stage2.yml/badge.svg)](https://github.com/jaweyhuang/cloudflare-docker-proxy/actions/workflows/stage2.yml)
 ## Deploy
 
 1. click the "Deploy With Workers" button
